@@ -4,6 +4,8 @@
 
 package com.estudo.estrutura_de_dados;
 
+import com.estudo.estrutura_de_dados.pilha.TadPilhaRun;
+
 /**
  *
  * @author israel.lohuan
@@ -11,6 +13,6 @@ package com.estudo.estrutura_de_dados;
 public class Estrutura_de_dados {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        TadPilhaRun.main();
     }
 }
