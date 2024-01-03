@@ -1,1 +1,5 @@
 com\estudo\estrutura_de_dados\Estrutura_de_dados.class
+com\estudo\estrutura_de_dados\fila\TadFila.class
+com\estudo\estrutura_de_dados\pilha\TadPilhaRun.class
+com\estudo\estrutura_de_dados\fila\TadFilaRun.class
+com\estudo\estrutura_de_dados\pilha\TadPilha.class
