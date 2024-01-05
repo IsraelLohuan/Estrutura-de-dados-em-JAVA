@@ -55,7 +55,7 @@ public class TadListaLigadaRun {
                 if (e == null) {
                     System.out.println("A Lista esta' vazia!!");
                 } else {
-                    System.out.println("O elemento foi removido da fila com sucesso.");
+                    System.out.println("O elemento foi removido com sucesso.");
                     System.out.print("\nNome ---> " + e.getNome());
                     System.out.print("\nNumero -> " + e.getNumero());
                 }
