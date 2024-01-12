@@ -4,10 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.fila;
 
-/**
- *
- * @author israel.lohuan
- */
 public class TadFila {
     
    int ini;

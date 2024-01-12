@@ -1,10 +1,6 @@
 package com.estudo.estrutura_de_dados.tabela_hash;
 
 
-
-/**
- * classe Elemento
- */
 public class Elemento {
 
     public Elemento(int numero, String nome) {

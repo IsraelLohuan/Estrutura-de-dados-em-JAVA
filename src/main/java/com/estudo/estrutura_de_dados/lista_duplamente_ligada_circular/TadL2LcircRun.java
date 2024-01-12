@@ -1,18 +1,6 @@
 package com.estudo.estrutura_de_dados.lista_duplamente_ligada_circular;
-
-
 import java.util.Scanner;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- * classe TadL2Lcirc
- *
- * @author Marcio Porto Feitosa - 12/02/2023 - 15:32:58
- */
 public class TadL2LcircRun {
 
     static L2Lcirc l2lc;

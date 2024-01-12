@@ -4,10 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.lista_ligada;
 
-/**
- *
- * @author israel.lohuan
- */
 public class Pessoa extends Elemento {
    String nome;
    int numero;

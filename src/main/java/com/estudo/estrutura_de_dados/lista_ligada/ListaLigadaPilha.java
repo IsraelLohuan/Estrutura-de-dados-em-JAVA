@@ -4,11 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.lista_ligada;
 
-/**
- *
- * @author israel.lohuan
- * @param <T>
- */
 public class ListaLigadaPilha<T extends Elemento> extends ListaLigada<T> {
     @Override
     public boolean push(T e) {

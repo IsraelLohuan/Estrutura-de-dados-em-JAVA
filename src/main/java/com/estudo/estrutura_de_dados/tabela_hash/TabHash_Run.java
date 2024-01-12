@@ -3,9 +3,6 @@ package com.estudo.estrutura_de_dados.tabela_hash;
 
 import java.util.Scanner;
 
-/**
- * classe TabHash_Run
- */
 public class TabHash_Run {
 
     public static void main() {

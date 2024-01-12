@@ -1,18 +1,6 @@
 package com.estudo.estrutura_de_dados.tabela_hash_com_lista_ligada;
-
-
 import java.util.LinkedList;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- * classe TabelaHash_2
- *
- * @author Marcio Porto Feitosa - 05/04/2023 - 11:17:48
- */
 public class TabelaHash_2 {
 
     public TabelaHash_2(int tam, boolean rep) {

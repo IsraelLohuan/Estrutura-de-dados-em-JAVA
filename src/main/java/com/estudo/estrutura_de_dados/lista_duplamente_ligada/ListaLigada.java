@@ -1,12 +1,5 @@
 package com.estudo.estrutura_de_dados.lista_duplamente_ligada;
 
-
-/**
- * classe ListaLigada
- * teste
- *
- * @author Marcio Porto Feitosa - 22/12/2022 - 17:31:28
- */
 public class ListaLigada {
 
     private Elemento inicio;

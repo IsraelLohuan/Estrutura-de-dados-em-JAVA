@@ -1,11 +1,5 @@
 package com.estudo.estrutura_de_dados.lista_duplamente_ligada_circular;
 
-
-/**
- * class Elemento
- *
- * @author Marcio Porto Feitosa - 22/12/2022 - 17:31:51
- */
 public class Elemento {
 
     public Elemento() {

@@ -4,10 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.pilha;
 
-/**
- *
- * @author israel.lohuan
- */
 public class TadPilha {
     private final int tamanho;
     private int topo;

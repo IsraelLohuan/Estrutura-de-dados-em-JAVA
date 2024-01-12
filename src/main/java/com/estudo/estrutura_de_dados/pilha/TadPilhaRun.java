@@ -6,10 +6,6 @@ package com.estudo.estrutura_de_dados.pilha;
 
 import java.util.Scanner;
 
-/**
- *
- * @author israel.lohuan
- */
 public class TadPilhaRun {
     public static void main() {
         Scanner scn = new Scanner(System.in);

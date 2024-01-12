@@ -6,10 +6,6 @@ package com.estudo.estrutura_de_dados.fila;
 
 import java.util.Scanner;
 
-/**
- *
- * @author israel.lohuan
- */
 public class TadFilaRun {
     public static void main() {
         Scanner scn = new Scanner(System.in);

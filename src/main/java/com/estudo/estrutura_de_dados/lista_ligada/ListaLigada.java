@@ -4,11 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.lista_ligada;
 
-/**
- *
- * @author israel.lohuan
- * @param <T>
- */
 public abstract class ListaLigada<T extends Elemento> {
     T inicio;
     

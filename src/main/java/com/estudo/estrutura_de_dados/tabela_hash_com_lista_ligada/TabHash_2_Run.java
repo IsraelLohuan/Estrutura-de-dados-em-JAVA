@@ -3,14 +3,6 @@ package com.estudo.estrutura_de_dados.tabela_hash_com_lista_ligada;
 
 import java.util.Scanner;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- * classe TabHash_2_Java
- */
 public class TabHash_2_Run {
 
     /**

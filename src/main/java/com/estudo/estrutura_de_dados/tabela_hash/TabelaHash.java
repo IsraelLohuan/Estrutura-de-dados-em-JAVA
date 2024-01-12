@@ -1,10 +1,5 @@
 package com.estudo.estrutura_de_dados.tabela_hash;
 
-
-
-/**
- * classe TabelaHash
- */
 public class TabelaHash {
 
     public TabelaHash(int tam, boolean rep) {

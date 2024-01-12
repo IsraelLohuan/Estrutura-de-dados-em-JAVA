@@ -9,10 +9,6 @@ import java.util.Deque;
 import java.util.Iterator;
 import java.util.Scanner;
 
-/**
- *
- * @author israel.lohuan
- */
 public class TadDequeRun {
    static Deque<Integer> deque;
    static Scanner scn;

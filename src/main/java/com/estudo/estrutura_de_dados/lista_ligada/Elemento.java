@@ -4,10 +4,6 @@
  */
 package com.estudo.estrutura_de_dados.lista_ligada;
 
-/**
- *
- * @author israel.lohuan
- */
 public abstract class Elemento {
     private Elemento proximo;
     
