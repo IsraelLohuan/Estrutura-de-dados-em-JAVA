@@ -4,9 +4,13 @@
 
 package com.estudo.estrutura_de_dados;
 
+import com.estudo.estrutura_de_dados.algoritmos_ordenacao.Bubble_JavaRun;
+import com.estudo.estrutura_de_dados.algoritmos_ordenacao.Merge_JavaRun;
+import com.estudo.estrutura_de_dados.algoritmos_ordenacao.Merge_Quick_JavaRun;
 import com.estudo.estrutura_de_dados.arvore_binaria.ArvoreBinariaRun;
 import com.estudo.estrutura_de_dados.arvore_binaria_avl.ArvoreBinariaAvlRun;
 import com.estudo.estrutura_de_dados.arvore_generica.ArvoreGenericaRun;
+import com.estudo.estrutura_de_dados.conjunto.SetJavaRun;
 import com.estudo.estrutura_de_dados.deque.TadDequeRun;
 import com.estudo.estrutura_de_dados.fila.TadFilaRun;
 import com.estudo.estrutura_de_dados.lista_duplamente_ligada.TadL2LJava_IRun;
@@ -33,6 +37,10 @@ public class Estrutura_de_dados {
         //TabHash_2_Run.main();
         //ArvoreBinariaRun.main();
         //ArvoreBinariaAvlRun.main();
-        ArvoreGenericaRun.main();
+        //ArvoreGenericaRun.main(); 
+        //Bubble_JavaRun.run();
+        //Merge_JavaRun.run();
+        //Merge_Quick_JavaRun.run();
+        SetJavaRun.run();
     }
 }

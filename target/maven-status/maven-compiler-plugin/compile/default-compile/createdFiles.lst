@@ -1,6 +1,8 @@
 com\estudo\estrutura_de_dados\arvore_binaria\Elemento.class
 com\estudo\estrutura_de_dados\arvore_generica\Matriz$Ponteiro.class
 com\estudo\estrutura_de_dados\arvore_binaria_avl\No_AVL.class
+com\estudo\estrutura_de_dados\conjunto\SetJavaRun.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\Merge_Quick_JavaRun.class
 com\estudo\estrutura_de_dados\tabela_hash\TabHash_Run.class
 com\estudo\estrutura_de_dados\arvore_binaria\ArvoreBinariaRun.class
 com\estudo\estrutura_de_dados\lista_duplamente_ligada_circular\Elemento.class
@@ -9,11 +11,16 @@ com\estudo\estrutura_de_dados\deque\TadDequeRun.class
 com\estudo\estrutura_de_dados\lista_ligada\ListaLigadaPilha.class
 com\estudo\estrutura_de_dados\lista_ligada\ListaLigadaFila.class
 com\estudo\estrutura_de_dados\arvore_generica\ArvoreGenericaRun.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\GFG.class
 com\estudo\estrutura_de_dados\lista_duplamente_ligada\Elemento.class
 com\estudo\estrutura_de_dados\tabela_hash_com_lista_ligada\TabelaHash_2.class
 com\estudo\estrutura_de_dados\fila\TadFilaRun.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\QuickSort_ITE.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\Bubble_JavaRun.class
 com\estudo\estrutura_de_dados\arvore_binaria\ArvoreBinaria.class
 com\estudo\estrutura_de_dados\tabela_hash\Elemento.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\QuickSort_REC.class
+com\estudo\estrutura_de_dados\BubbleJavaRun.class
 com\estudo\estrutura_de_dados\lista_duplamente_ligada_circular\L2Lcirc.class
 com\estudo\estrutura_de_dados\pilha\TadPilha.class
 com\estudo\estrutura_de_dados\lista_ligada\ListaLigada.class
@@ -30,6 +37,7 @@ com\estudo\estrutura_de_dados\tabela_hash_com_lista_ligada\Elemento.class
 com\estudo\estrutura_de_dados\lista_ligada\Pessoa.class
 com\estudo\estrutura_de_dados\Estrutura_de_dados.class
 com\estudo\estrutura_de_dados\tabela_hash\TabelaHash.class
+com\estudo\estrutura_de_dados\algoritmos_ordenacao\Merge_JavaRun.class
 com\estudo\estrutura_de_dados\lista_duplamente_ligada\ListaLigada.class
 com\estudo\estrutura_de_dados\lista_ligada\TadListaLigadaRun.class
 Elemento.class
