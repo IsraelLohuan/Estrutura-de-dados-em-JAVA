@@ -6,11 +6,6 @@ package com.estudo.estrutura_de_dados.lista_duplamente_ligada;
  */
 import java.util.Scanner;
 
-/**
- * classe TadL1LJava_Exercicio1
- *
- * @author Marcio Porto Feitosa - 23/12/2022 - 10:48:35
- */
 public class TadL2LJava_IRun {
 
     static ListaLigada ll;
